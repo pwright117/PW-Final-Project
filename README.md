@@ -1,4 +1,13 @@
 # PW Final Project
 This is a simple site that has elements to help a person start the day. The time, the weather, an inspiration quote of the day, and of course, puppies.
 
-I'd like to spruce it up with some CSS, make the clock a bit prettier, center everything and make it larger/fade in. I'm not sure how to do any of this, but that is what I am going for.
+Known bugs:
+The weather data isn't local, and I'm not sure how to fix the api to get local weather.
+
+To do:
+CSS to the page to add some calming things.
+Change the clock to look nicer.
+Add animations for everything.
+Add more elements that can be helpful in the morning, like local brunch or coffee shop suggestions.
+
+All of the code is up to date, enjoy!
